@@ -1,1 +1,1 @@
-# Pooja
+# Heart disease detection
